@@ -1,16 +1,20 @@
-### Hi there 👋
+### Sejam Bem-vindos 👋
 
-<!--
-**AlisonAbrantes/AlisonAbrantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Alison atualmente com 22 Anos, trabalho na área comercial desde os 16 anos - iniciei no comercio de minha familia, atuei em industrias como vendedor interno B2B e B2C.
+Sempre fui curioso em relação a tecnologia, me formei em Analise e Desenvolvimento de Sistemas no meio da Pandemia (Formação 06/2020), mesmo após a formação continuo estudanto para aprimorar conhecimento e conhecer novas tecnologias.
 
-Here are some ideas to get you started:
+## Conhecimento em:
+*JAVA (Design Patters + MVC)
+*GIT
+*HTML5
+*CSS3
+*javascript
+*Bootstrap 4.0
+*Cloud AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Realizado:
+* [Sistema de recomendação de computadores] (https://github.com/AlisonAbrantes/PFC-ADS)
+* [Crud Utilizando Java + MVC] (https://github.com/AlisonAbrantes/CRUD-Arquiterura-MVC)
+
+## Meu contato:
+<a href="https://www.flaticon.com/authors/freepik" title="Freepik"> alison_abrantes69@hotmail.com
